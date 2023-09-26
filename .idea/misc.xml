@@ -8,6 +8,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/01-thymeleafdemo-helloworld/pom.xml" />
+        <option value="$PROJECT_DIR$/02-validationdemo/pom.xml" />
       </list>
     </option>
   </component>
