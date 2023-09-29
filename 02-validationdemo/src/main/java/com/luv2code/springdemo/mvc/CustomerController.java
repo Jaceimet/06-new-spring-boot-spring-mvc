@@ -16,7 +16,7 @@ public class CustomerController {
 
         theModel.addAttribute("customer", new Customer());
 
-        return "customer form";
+        return "customer-form";
 
     }
 
